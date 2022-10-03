@@ -1,0 +1,38 @@
+,name,album,artist,releas_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,"How Far I'll Go - From ""Moana""","How Far I'll Go (From ""Moana"")",Alessia Cara,2016-10-28,175517,0,0.157,0.314,0.555,0.000108,0.067,-9.601,0.37,179.666,4
+1,I Feel It Coming,Starboy,The Weeknd,2016-11-25,269186,81,0.428,0.773,0.819,0.0,0.0679,-5.946,0.118,92.987,4
+2,I Don’t Wanna Live Forever (Fifty Shades Darker),Fifty Shades Darker (Original Motion Picture Soundtrack),Various Artists,2017-02-10,245653,67,0.0594,0.734,0.442,1.63e-05,0.213,-8.432,0.0557,117.967,4
+3,Shape of You,÷ (Deluxe),Ed Sheeran,2017-03-03,233712,86,0.581,0.825,0.652,0.0,0.0931,-3.183,0.0802,95.977,4
+4,Paris,Paris,The Chainsmokers,2017-01-13,221520,71,0.0243,0.646,0.644,0.0,0.0888,-6.763,0.031,99.999,4
+5,Story of My Life,Midnight Memories (Deluxe),One Direction,2013-11-25,245493,82,0.225,0.6,0.663,0.0,0.119,-5.802,0.0477,121.07,4
+6,Steal My Girl,FOUR (Deluxe),One Direction,2014-11-17,228133,79,0.00433,0.536,0.768,0.0,0.114,-5.948,0.0347,77.217,4
+7,One Thing,Up All Night,One Direction,2012-05-25,197186,0,0.00224,0.711,0.721,0.0,0.0525,-3.79,0.0282,126.988,4
+8,Live While We're Young,Take Me Home: Yearbook Edition,One Direction,2012-11-09,200186,2,0.0629,0.658,0.837,0.0,0.0969,-2.063,0.0543,126.015,4
+9,"Hey, Soul Sister","Save Me, San Francisco",Train,2009-10-27,216773,4,0.182,0.677,0.89,0.0,0.0826,-4.448,0.0418,97.012,4
+10,Closer,Closer,The Chainsmokers,2016-07-29,244960,85,0.414,0.748,0.524,0.0,0.111,-5.599,0.0338,95.01,4
+11,She's Kinda Hot,Sounds Good Feels Good (Deluxe),5 Seconds of Summer,2015-10-23,216454,71,0.00182,0.664,0.908,0.0,0.109,-4.806,0.0317,118.031,4
+12,Eyes Open,The Hunger Games: Songs From District 12 And Beyond,Various Artists,2012-01-01,244586,50,0.00678,0.598,0.724,0.00182,0.0839,-7.225,0.0345,137.115,4
+13,Electric Love,Dopamine,BØRNS,2015-10-16,218106,84,0.00543,0.611,0.797,0.00137,0.26,-7.627,0.0533,120.041,4
+14,All Star,Astro Lounge,Smash Mouth,1999-06-08,200373,79,0.0395,0.731,0.867,0.0,0.0861,-5.881,0.032,104.019,4
+15,All Time Low,The Human Condition,Jon Bellion,2016-06-10,217603,69,0.0584,0.617,0.567,0.0,0.0933,-4.188,0.0828,90.246,4
+16,Overwhelming,The Human Condition,Jon Bellion,2016-06-10,172751,60,0.252,0.748,0.622,0.0,0.112,-4.518,0.225,91.77,4
+17,Before He Cheats,Some Hearts,Carrie Underwood,2005-11-14,199946,76,0.271,0.519,0.749,0.0,0.119,-3.318,0.0405,147.905,4
+18,Love Yourself,Purpose (Deluxe),Justin Bieber,2015-11-13,233720,64,0.835,0.609,0.378,0.0,0.28,-9.828,0.438,100.418,4
+19,One Call Away,One Call Away,Charlie Puth,2015-08-21,192075,59,0.417,0.665,0.62,0.0,0.113,-5.43,0.035,91.008,4
+20,Treat You Better,Treat You Better,Shawn Mendes,2016-06-03,187973,0,0.128,0.448,0.817,0.0,0.105,-4.069,0.386,83.015,4
+21,Cold Water,Cold Water,Major Lazer,2016-07-22,185360,69,0.0736,0.608,0.798,0.0,0.156,-5.092,0.0432,92.943,4
+22,Cheerleader - Felix Jaehn Remix Radio Edit,Cheerleader (Felix Jaehn Remix Radio Edit),OMI,2015-03-06,181826,54,0.146,0.777,0.663,1.52e-05,0.174,-6.117,0.0305,118.016,4
+23,The Lion Sleeps Tonight (Wimoweh),The Definitive 60's (sixties),Various Artists,2007-12-10,159773,0,0.764,0.421,0.519,0.0,0.115,-6.825,0.0323,123.503,4
+24,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",Sing (Original Motion Picture Soundtrack / Deluxe),Various Artists,2016-12-09,187853,63,0.00687,0.579,0.904,0.0,0.0649,-4.45,0.15,175.316,4
+25,We Will Rock You - Remastered,Queen 40 Limited Edition Collector's Box Set Vol. 2,Queen,2011-01-01,122066,45,0.679,0.693,0.497,0.0,0.258,-7.316,0.119,81.308,4
+26,Seven Nation Army,Elephant,The White Stripes,2003-04-01,231733,11,0.00817,0.726,0.463,0.447,0.255,-7.828,0.0799,123.881,4
+27,"Sugar, We're Goin Down",From Under The Cork Tree,Fall Out Boy,2005-05-03,229093,78,0.00579,0.494,0.842,0.0,0.122,-4.784,0.0843,162.011,4
+28,Try Everything,Zootopia (Original Motion Picture Soundtrack),Michael Giacchino,2016-02-12,196853,69,0.0257,0.705,0.609,0.0,0.0846,-4.897,0.0307,115.474,4
+29,Heartbeat Song,Piece By Piece (Deluxe Version),Kelly Clarkson,2015-02-27,198733,67,0.0137,0.49,0.798,0.0,0.0627,-3.66,0.0489,149.109,4
+30,"Honey, I'm Good.",Magazines Or Novels,Andy Grammer,2014-01-01,199263,0,0.0378,0.753,0.796,0.0,0.331,-6.406,0.0576,122.025,4
+31,Trumpets,Talk Dirty,Jason Derulo,2013-09-10,217419,66,0.555,0.635,0.691,0.0,0.097,-4.862,0.258,82.142,4
+32,Fireball (feat. John Ryan),Fireball (feat. John Ryan),Pitbull,2014-07-23,235012,65,0.0894,0.69,0.937,0.000104,0.0532,-5.393,0.0642,122.951,4
+33,Please Don't Go (Cheat Codes Edit) [feat. Cheat Codes],Please Don't Go (Cheat Codes Edit) [feat. Cheat Codes],Dresses,2015-12-04,235786,28,0.0798,0.668,0.698,0.0177,0.107,-5.513,0.0287,127.986,4
+34,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",TROLLS (Original Motion Picture Soundtrack),Trolls,2016-09-23,237546,74,0.0106,0.669,0.832,0.0,0.0968,-5.72,0.0682,113.035,4
+35,Stitches,Handwritten (Revisited),Shawn Mendes,2015-11-20,206880,54,0.0153,0.594,0.754,0.0,0.0486,-6.684,0.11,73.184,4
+36,Dead Girl Walking,Bop City 2: TerroRising,Terror Jr,2017-06-16,192817,20,0.769,0.586,0.418,0.00322,0.089,-11.666,0.0616,151.744,4
